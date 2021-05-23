@@ -6,7 +6,7 @@
 - 👨🏻‍🎓 I’m currently studying Software engineering.
 - 🎯 Focus on Backend using Java with Spring Boot and Microservices.
 - 🌐 I have knowledge in consuming APIs with React.js.
-- 🛠 Some technologies that I know about: Javascript,Html and Css.
+- 🛠 Some technologies that I know: Javascript,Html and Css.
 - 📫 How to reach me: brunopinho1010@gmail.com.
 
 
