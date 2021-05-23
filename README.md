@@ -7,8 +7,7 @@
 - 🎯 Focus on Backend using Java with Spring Boot and Microservices.
 - 🌐 I have knowledge in consuming APIs with React.js.
 - 🛠 Some technologies that I know: Javascript,Html and Css.
-- 📫 How to reach me: brunopinho1010@gmail.com.
-
+- 📫 How to reach me: brunopinhds1010@gmail.com
 
 
 
