@@ -16,8 +16,17 @@
     
   ![Pinhobrundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinhobrunodev&theme=omni&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinhobrunodev&layout=compact&theme=omni)
-  
-
-
+ 
 </p>
+
+### Top Cards 
+  
+<a href="https://github.com/pinhobrunodev/client-api-crud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinhobrunodev&theme=omni&repo=cliente-api-crud" />
+</a>
+<a href="https://github.com/pinhobrunodev/bruno-lanches-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pinhobrunodev&theme=omni&repo=bruno-lanches-api" />
+</a>
+
+
 
