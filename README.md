@@ -5,9 +5,9 @@
 - 📍 Born in Salvador/BA Brazil.
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
 - 🎯 Focus on Backend using Java with Spring Boot and Microservices.
-- 🌐 I have knowledge in consuming APIs with React.js.
+- 🌐 I have knowledge in consuming APIs with React.js and Angular.js.
 - 🛠 Some technologies that I know: Javascript,Html and Css.
-- 📫 How to reach me: brunopinhods1010@gmail.com
+- 📫 How to reach me: brunopinhods1010@gmail.com.
 
 
 
