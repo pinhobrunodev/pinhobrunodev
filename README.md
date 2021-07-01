@@ -16,12 +16,13 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width:100%;"></a></p>
 
 ### Languages and Github Stats
-<p align="center">
-    
-  ![Pinhobrundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinhobrunodev&theme=omni&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinhobrunodev&layout=compact&theme=omni)
- 
-</p>
+
+ <div>
+  <a href="https://github.com/pinhobrunodev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinhobrunodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhobrunodev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 
 
 
