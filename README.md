@@ -8,7 +8,7 @@
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
 - 🎯 Focus on developing API's REST using Java with Spring Boot.
 - 🌐 I have knowledge in consuming API with React.js.
-- 🛠 Some technologies that I know: Javascript,Html and Css.
+- 🛠 Some technologies that I know: JavaScript,TypeScript,Html and Css.
 - 📫 How to reach me: brunopinhods1010@gmail.com.
 <br>
 
