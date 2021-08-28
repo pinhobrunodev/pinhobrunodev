@@ -7,8 +7,10 @@
 - 📍 Born in Salvador/BA Brazil.
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
 - 🎯 Focus on developing API's REST using Java with Spring Boot.
-- 🌐 I have knowledge in consuming API with React.js.
-- 🛠 Some technologies that I know: JavaScript,TypeScript,Html and Css.
+- 🎨 Knowledge in consuming API with React.js.
+- 🌐 Knowledge in operations/monitoring BackBone IP and MetroEthernet Network.
+- 🔧Service deals such as GPON,VDSL,ADSL.
+- 🛠 Some technologies that I know: TypeScript,Html and Css.
 - 📫 How to reach me: brunopinhods1010@gmail.com.
 <br>
 
