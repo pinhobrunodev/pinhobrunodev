@@ -8,7 +8,7 @@
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
 - 🎯 Focus on developing API's REST using Java with Spring Boot.
 - 🎨 Knowledge in consuming API with React.js.
-- 🌐 Knowledge in operations/monitoring BackBone IP and MetroEthernet Network.
+- 🌐 Knowledge in operations/monitoring BackBone IP, MetroEthernet and Acesso Network.
 - 🔧Service deals such as GPON,VDSL,ADSL.
 - 🛠 Some technologies that I know: TypeScript,Html and Css.
 - 📫 How to reach me: brunopinhods1010@gmail.com.
