@@ -11,7 +11,7 @@
 - 🎨 Knowledge in consuming API with React.js.
 - 🌐 Knowledge in operations/monitoring BackBone IP, MetroEthernet and Acesso Network.
 - 🔧Service deals such as GPON,VDSL,ADSL.
-- 🛠 Some technologies that I know: TypeScript,Html and Css.
+- 🛠 Some other technologies that I know: TypeScript,Html and Css.
 <br>
 
 
