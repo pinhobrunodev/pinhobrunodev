@@ -38,7 +38,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhobrunodev&layout=compact&langs_count=16&theme=dracula" style="max-width:90%;"/>
 </div>
 
-### Graph Contribution
+### Graph Contribution for last 31 days
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinhobrunodev&theme=dracula&custom_title=Bruno%20Pinho%20Contribution%20Graph&hide_border=true)](https://github.com/pinhobrunodev)
 
