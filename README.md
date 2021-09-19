@@ -5,6 +5,8 @@
 
 
 
+
+
 - 📍 Born in Salvador/BA Brazil.
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
 - 🎯 Focus on developing API's REST using Java with Spring Boot.
@@ -13,6 +15,9 @@
 - 🔧Service deals such as GPON,VDSL,ADSL.
 - 🛠 Some other technologies that I know: TypeScript,Html and Css.
 <br>
+
+
+
 
 
 
@@ -33,6 +38,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhobrunodev&layout=compact&langs_count=16&theme=dracula" style="max-width:90%;"/>
 </div>
 
+### Graph Contribution
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinhobrunodev&theme=dracula&custom_title=Bruno%20Pinho%20Contribution%20Graph&hide_border=true)](https://github.com/pinhobrunodev/github-readme-activity-graph)
 
