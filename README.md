@@ -40,5 +40,5 @@
 
 ### Graph Contribution
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinhobrunodev&theme=dracula&custom_title=Bruno%20Pinho%20Contribution%20Graph&hide_border=true)](https://github.com/pinhobrunodev/pinhobrunodev)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pinhobrunodev&theme=dracula&custom_title=Bruno%20Pinho%20Contribution%20Graph&hide_border=true)](https://github.com/pinhobrunodev)
 
