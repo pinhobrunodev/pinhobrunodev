@@ -12,7 +12,6 @@
 - 🎯 Focus on developing API's REST using Java with Spring Boot.
 - 🎨 Knowledge in consuming API with React.js.
 - 🌐 Knowledge in operations/monitoring BackBone IP, MetroEthernet and Acesso Network.
-- 🔧Service deals such as GPON,VDSL,ADSL.
 - 🛠 Some other technologies that I know: TypeScript,Html and Css.
 <br>
 
