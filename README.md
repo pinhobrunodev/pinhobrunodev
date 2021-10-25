@@ -12,6 +12,7 @@
 - 🎯 Focus on developing API's REST using Java with Spring Boot and Microsservices.
 - 🎨 React.js with TypeScript.
 - 🌐 NOC Lv.1 Intern - Knowledge on Network Operations dealing.
+- 📈 Software Metrics and Analytics using Prometheus With Grafana
 
 <br>
 
@@ -26,6 +27,8 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
 </p>
 
 
