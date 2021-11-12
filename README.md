@@ -5,10 +5,9 @@
 
 
 
-
+- 🌐 Network Analyst I Intern.
 - 📍 Born in Salvador/BA Brazil.
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
-- 🌐 Network Analyst I Intern.
 - 🎯 Focus on developing API's REST using Java with Spring Boot and Microsservices.
 - 🎨 React.js with TypeScript.
 - 📈 Software Metrics and Analytics using Prometheus With Grafana.
