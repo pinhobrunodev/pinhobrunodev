@@ -8,8 +8,9 @@
 - 🌐 Microservices Java Jr. Developer.
 - 📍 Born in Salvador/BA Brazil.
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
-- 🎯 Focus on developing API's REST using Java with Spring Boot and Microsservices.
-- 📈 Software Metrics and Analytics using Prometheus With Grafana.
+- 🎯 Focus on developing API's REST using Java with Spring Boot and Microservices.
+- 📬 Brokers : RabbitMQ and Apache Kafka.
+- 🐳 Docker 
 
 <br>
 
