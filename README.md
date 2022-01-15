@@ -12,7 +12,7 @@
 - 📬 Brokers : RabbitMQ and Apache Kafka.
 - 📊 Logs Observability : Elastic Stack.
 - ☁️ Cloud platfomrs : AWS & Heroku.
-- 🐳 Docker 
+- 🐳 Docker.
 
 
  
