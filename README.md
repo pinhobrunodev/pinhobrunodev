@@ -11,7 +11,7 @@
 - 🎯 Focus on developing API's REST using Java with Spring Boot and Microservices.
 - 📬 Brokers : RabbitMQ and Apache Kafka.
 - 📊 Logs Observability : Elastic Stack.
-- ☁️ Cloud platfomrs : AWS & Heroku.
+- ☁️ Cloud platforms : AWS & Heroku.
 - 🐳 Docker.
 
 
