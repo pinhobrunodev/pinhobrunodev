@@ -11,6 +11,7 @@
 - 🎯 Focus on developing API's REST using Java with Spring Boot and Microservices.
 - 📬 Brokers : RabbitMQ and Apache Kafka.
 - 🐳 Docker 
+- ☁️ AWS,Heroku
 
 <br>
 
