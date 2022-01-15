@@ -10,9 +10,10 @@
 - 👨🏻‍🎓 I’m currently studying Software Engineering 5/8.
 - 🎯 Focus on developing API's REST using Java with Spring Boot and Microservices.
 - 📬 Brokers : RabbitMQ and Apache Kafka.
-- 📊 Logs Observability : Elastic Stack
+- 📊 Logs Observability : Elastic Stack.
+- ☁️ Cloud platfomrs : AWS & Heroku.
 - 🐳 Docker 
-- ☁️ AWS,Heroku
+
 
  
 
