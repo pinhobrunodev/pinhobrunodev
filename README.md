@@ -10,7 +10,7 @@
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
 - 🎯 Focus on developing API's REST using Java with Spring Boot and Microservices.
 - 📬 Brokers : RabbitMQ and Apache Kafka.
-- 🗃️ Databases : PostgreSQL,MySQL & MongoDB.
+- 🗃️ Databases : PostgreSQL,MySQL,MongoDB & Redis.
 - 📊 Logs Observability : Elastic Stack (ELK).
 - ☁️ Cloud platforms : AWS & Heroku.
 - 🐳 Docker.
