@@ -1,10 +1,9 @@
 ###   Hello ! My name is Bruno and I have 22 yrs 👨🏻‍💻
 
-<br>
 <a href="https://www.linkedin.com/in/pinhobrunodev/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pinhobrunodev/" style="max-width:100%;"></a>
 <a href="mailto:brunopinho1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/bruno-pinho-3aa8591a4/" style="max-width:100%;"></a>
 
-<br>
+
 
 
 - 🌐 Microservices Jr. Developer.
