@@ -6,7 +6,7 @@
 
 
 
-- 🌐 Microservices  Developer.
+- 🌐 Software Developer.
 - 📍 Born in Salvador/BA Brazil.
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
 - 🎯 Focus on developing API's REST using Java with Spring Boot and Microservices.
