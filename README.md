@@ -16,7 +16,7 @@
 - 📊 Logs Observability : Elastic Stack (ELK).
 - ☁️ Cloud platforms : AWS & Heroku.
 - 🐳 Docker.
-- ☸ Kubernetes
+- ☸ Kubernetes.
 
 
  
