@@ -23,30 +23,6 @@
 <br>
 
 
-
-
-
-
-
-<p>
-<img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
-<img src=https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot>
-<img src=https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white>
-<img src=https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white>
-<img src=https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white>
-<img src=https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src=https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white>
-<img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white>
-<img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
-<img src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
-<img src=https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white>
-<img src= https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white>
-<img src=https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white>
-</p>
-
-
-
 ### Languages and Github Stats
 
 <br>
