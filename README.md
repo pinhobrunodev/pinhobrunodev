@@ -9,13 +9,13 @@
 - 🌐 Software Developer.
 - 📍 Born in Salvador/BA Brazil.
 - 👨🏻‍🎓 I’m currently studying Software Engineering.
-- 🎯 Focus on developing API's REST using Java with Spring Boot and Microservices.
-- 📬 Brokers : RabbitMQ and Apache Kafka.
-- 🗃️ Databases : PostgreSQL,MySQL,MongoDB & Redis.
-- 📊 Logs Observability : Elastic Stack (ELK).
-- ☁️ Cloud platforms : AWS & Heroku.
-- 🐳 Docker.
-- ☸ Kubernetes.
+- 🎯 Focus on developing Microservices in Java with SpringBoot and running as max as possible on Kubernetes.
+- 📬 Brokers: RabbitMQ and Apache Kafka.
+- 🗃️ Databases: PostgreSQL,MySQL,MongoDB & Redis.
+- 📊 Logs Observability: Elastic Stack (ELK).
+- 🔎 Application Monitoring: Prometheus and Grafana.
+- ☁️ Cloud providers: AWS & Heroku.
+- ⚙️ DevOps: Docker,Kubernetes,Terraform,Ansible and Jenkins.
 
 
  
