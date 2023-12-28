@@ -14,7 +14,7 @@ Some technologies that i know
 - 🗃️ Databases: PostgreSQL,MySQL,MongoDB & Redis.
 - 📊 Logs Observability: Elastic Stack (ELK).
 - 🔎 Application Monitoring: Prometheus,Grafana,Dynatrace.
-- ☁️ Cloud providers: AWS & Heroku.
+- ☁️ Cloud providers: AWS,GCP,AZURE
 - ⚙️ Container: Docker,Kubernetes
 -   CI/CD: Jenkins,GithubActions
 -   IaC: Terraform,Ansible
